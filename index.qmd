@@ -2,12 +2,12 @@
 title: "Kimberly Cui"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
 ```
 
-hi hi hi
+hi hi hi fatty daddy 
+
+![fatty daddy.](Subject.png)
+
