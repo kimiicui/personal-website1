@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.2501263 0.8063457 0.7230951 0.5435514 0.4471332 0.8750437 0.7599717\n [8] 0.5407397 0.8645325 0.7245126"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kimberly Cui",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nhi hi hi"
   }
 ]
