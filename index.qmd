@@ -1,13 +1,14 @@
 ---
-title: "Kimberly Cui"
+title: "hi xin"
 ---
 
+my name is xin 
 
-```{r}
-1 + 1
-```
+
+The website does not accept it because the background is not white
 
 hi hi hi fatty daddy 
+It may be preshocks
 
 ![fatty daddy.](Subject.png)
 
