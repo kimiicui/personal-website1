@@ -16,7 +16,9 @@ about:
 toc: false 
 ---
 
-Hi! I’m Kimberly (or Kimi!), a student at UCLA double majoring in Statistics/Data Science and Economics and minoring in Data Science Engineering. Passionate about data-driven impact, I'm actively exploring opportunities in data science, fintech, trading and related fields. Reach me at kcui@ucla.edu 😄  
+Hi! I’m Kimberly (or Kimi!), a student at UCLA double majoring in Statistics/Data Science and Economics and minoring in Data Science Engineering. Passionate about data-driven impact, I'm actively exploring opportunities in data science, fintech, crypto, trading and related fields. 
+
+Reach me at kcui@ucla.edu 😄 
 
 View my [Resume](/resume.pdf) 
 
@@ -28,4 +30,9 @@ B.S. in Statistics, Data Science Engineering | Sept 2023 - June 2027
 ## Experience 
 
 Coinbase | Sales, Trading & Prime Intern | June 2025 - Sept 2025
-AmpUp | Research Analyst | Oct 2024 - June 2025 
+
+- Built data tools at Coinbase to uncover $154B+ in missed staking revenue and help reshape how institutional clients are managed.
+
+AmpUp | Research Analyst | Oct 2024 - June 2025
+
+- Worked on climate analytics and competitive research to sharpen AmpUp’s product positioning and go-to-market strategy.

@@ -1,16 +1,33 @@
 ---
-title: "Academic & Personal Projects" 
-toc: false
+title: "Academic & Personal Projects - Data, Consulting" 
 ---
 
-## Project 1: LA Café Recommendation Engine - March 2025 
+## Data 
+### LA Café Recommendation Engine - March 2025 
 Built an end-to-end recommendation system that curates personalized café suggestions across Los Angeles using real-world Yelp API data. Designed data pipelines to scrape, clean, and structure thousands of reviews, applied sentiment analysis to extract user-experience signals (ambiance, quality, service), and implemented pricing heuristics to balance value and convenience. The tool outputs ranked recommendations optimized for user preferences, with a focus on matcha quality and location efficiency.
 
+View my [project presentation](/cafe-recommender.pdf)! 
 
-## Project 2: Drink Type & Dosage Effects on Motor Coordination (STATS 101B) - June 2025 
+
+### Drink Type & Dosage Effects on Motor Coordination - June 2025 
 Conducted a controlled experimental study to evaluate how caffeine and alcohol impact fine motor performance using a randomized factorial design. Designed and executed a 3×3 two-factor ANOVA experiment comparing beverage type (water, caffeinated sports drink, vodka) and dosage (0, 1, 2 units), with age and gender included as blocking variables to control for demographic variability. Analyzed coordination outcomes from 162 participants using R, performed residual diagnostics to validate model assumptions, and visualized interaction effects through boxplots and interaction plots. Findings revealed no statistically significant effect of drink type or dosage, but a meaningful gender-based difference in coordination variability—highlighting the importance of demographic controls in performance-related research.
 
 
-## Project 3: [Food Insecurity & Staple Prices in East Africa](https://foodsecurity.humspace.ucla.edu/) (DGT HUM 101) - March 2025 
+### [Food Insecurity & Staple Prices in East Africa](https://foodsecurity.humspace.ucla.edu/) - March 2025 
 
 Analyzed food insecurity trends across Somalia, Kenya, and Tanzania using the World Food Programme’s Global Food Prices Database. Investigated how price fluctuations in staple foods (maize, rice, beans) correlated with regional droughts, conflict, and infestations by integrating time-series data with historical event analysis. Built data visualizations to compare cross-country affordability over time and conducted a structured data critique to evaluate limitations in economic representation, purchasing power assumptions, and demographic bias. Findings highlighted climate volatility and political instability as key drivers of food price inflation, with Somalia experiencing the most severe disruptions. 
+
+
+## Consulting 
+
+### Microsoft–Unity Acquisition Strategy - M&A, Cloud Gaming 
+#### (FINALIST) Altman Solon x UCLA Consulting Case Competition 
+Conducted a strategic and financial analysis of Microsoft’s potential acquisition of Unity to evaluate growth opportunities in cloud gaming, AI-driven development, and the open metaverse. Assessed Unity’s business model, developer ecosystem, and global market positioning alongside Microsoft’s strengths in Azure, Xbox, and enterprise software. Built a valuation and ROI model projecting a 19% return over five years, analyzed TAM/SAM/SOM for cloud gaming, and benchmarked against precedent transactions including Activision Blizzard and Zynga. Developed an execution roadmap addressing regulatory risk, integration challenges, and global expansion strategy across Asia and Europe. 
+
+### Netflix Growth Strategy — Converged Media & Interactive Streaming
+#### Bain & Company x UCLA Consulting Case Competition
+Ideated and designed strategy project proposing Netflix’s expansion beyond traditional streaming into converged media experiences. Designed three growth initiatives—Learn Mode (in-platform educational features), Netflix: The Experience (pop-up live events), and NextPlay (live sports gamification)—to improve engagement, diversify revenue, and grow international viewership. Developed a financial model projecting $700M+ in annual revenue from Learn Mode, evaluated market trends in live events and advertising, and assessed competitive positioning across Apple, Amazon, and ESPN. Delivered strategic recommendations supported by consumer behavior research, industry benchmarking, and revenue forecasting. 
+
+### Bumble Asia Expansion Strategy
+Developed a market entry and growth strategy for Bumble’s expansion into Asia, focusing on high-potential cities including Tokyo, Mumbai, and Seoul. Conducted market sizing and revenue forecasting using industry growth projections, subscription behavior data, and competitive benchmarking to estimate a $347M–$902M revenue opportunity. Analyzed cultural fit, regulatory risk, and competitive dynamics across regional markets, and proposed a localization strategy centered on Bumble’s women-first positioning. Built a phased implementation roadmap covering product localization, marketing execution, and customer acquisition, with a focus on converting freemium users to premium through features such as Bumble BFF and Bumble Bizz.
+
