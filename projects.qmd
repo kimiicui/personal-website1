@@ -1,0 +1,16 @@
+---
+title: "Academic & Personal Projects" 
+toc: false
+---
+
+## Project 1: LA Café Recommendation Engine - March 2025 
+Built an end-to-end recommendation system that curates personalized café suggestions across Los Angeles using real-world Yelp API data. Designed data pipelines to scrape, clean, and structure thousands of reviews, applied sentiment analysis to extract user-experience signals (ambiance, quality, service), and implemented pricing heuristics to balance value and convenience. The tool outputs ranked recommendations optimized for user preferences, with a focus on matcha quality and location efficiency.
+
+
+## Project 2: Drink Type & Dosage Effects on Motor Coordination (STATS 101B) - June 2025 
+Conducted a controlled experimental study to evaluate how caffeine and alcohol impact fine motor performance using a randomized factorial design. Designed and executed a 3×3 two-factor ANOVA experiment comparing beverage type (water, caffeinated sports drink, vodka) and dosage (0, 1, 2 units), with age and gender included as blocking variables to control for demographic variability. Analyzed coordination outcomes from 162 participants using R, performed residual diagnostics to validate model assumptions, and visualized interaction effects through boxplots and interaction plots. Findings revealed no statistically significant effect of drink type or dosage, but a meaningful gender-based difference in coordination variability—highlighting the importance of demographic controls in performance-related research.
+
+
+## Project 3: [Food Insecurity & Staple Prices in East Africa](https://foodsecurity.humspace.ucla.edu/) (DGT HUM 101) - March 2025 
+
+Analyzed food insecurity trends across Somalia, Kenya, and Tanzania using the World Food Programme’s Global Food Prices Database. Investigated how price fluctuations in staple foods (maize, rice, beans) correlated with regional droughts, conflict, and infestations by integrating time-series data with historical event analysis. Built data visualizations to compare cross-country affordability over time and conducted a structured data critique to evaluate limitations in economic representation, purchasing power assumptions, and demographic bias. Findings highlighted climate volatility and political instability as key drivers of food price inflation, with Somalia experiencing the most severe disruptions. 

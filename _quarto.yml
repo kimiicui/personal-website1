@@ -7,9 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-        
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+  
+  
+  page-footer: 
+    right: "&copy; 2025, Kimberly Cui"
+    
 format:
   html:
     theme:

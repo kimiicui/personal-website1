@@ -1,15 +1,31 @@
 ---
-title: "hi xin"
+title: "Kimberly Cui"
+about:
+  template: solana
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/kimberlycui/
+    - icon: github
+      text: Github
+      href: https://github.com/kimiicui 
+    - icon: mail
+      text: Email 
+      url: "mailto:kcui@ucla.edu" 
+toc: false 
 ---
 
-my name is xin 
+Hi! I’m Kimberly (or Kimi!), a student at UCLA double majoring in Statistics/Data Science and Economics and minoring in Data Science Engineering. Passionate about data-driven impact, I'm actively exploring opportunities in data science, fintech, trading and related fields. Reach me at kcui@ucla.edu 😄  
 
+View my [Resume](/resume.pdf) 
 
-The website does not accept it because the background is not white
+## Education
 
-hi hi hi fatty daddy 
-It may be preshocks
+University of California, Los Angeles | Los Angeles, CA<br>
+B.S. in Statistics, Data Science Engineering | Sept 2023 - June 2027
 
-![fatty daddy.](Subject.png)
+## Experience 
 
-xin 
+Coinbase | Sales, Trading & Prime Intern | June 2025 - Sept 2025
+AmpUp | Research Analyst | Oct 2024 - June 2025 

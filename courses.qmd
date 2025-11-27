@@ -1,0 +1,24 @@
+---
+title: "Courses"
+format: html
+---
+
+Relevant Courses Taken: 
+
+- Statistical Models and Data Mining 
+- Data Analysis & Regression 
+- Data Structures & Algorithms 
+- Computational Statistics with R 
+- Probability 
+- Neural Networks and Deep Learning
+- Computation and Optimization for Statistics
+- Monte Carlo Methods
+- Mathematical Statistics 
+- Linear Models 
+- Machine Learning 
+- Design and Analysis of Experiment 
+- Statistical Programming with R
+- Practice of Statistical Consulting 
+- Linear Algebra 
+- Multivariable Calculus 
+- Microeconomics & Macroeconomics 
